@@ -5,16 +5,23 @@
 	font-size: 0px;
 }
 
-body{
+body
+{
 	background-color: #f2f2ff;
 }
 
-#puzzle{
+#puzzle
+{
 	width: 600px;
 	height: 400px;
 	margin: 40px;
 	border: 4px solid black;
 	position: relative;	
+}
+
+#puzzle:hover
+{
+	margin-left: 400px;
 }
 
 img
